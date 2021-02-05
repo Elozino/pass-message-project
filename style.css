@@ -41,3 +41,8 @@ body{
    cursor: pointer;
    font-size: 15px;
 }
+
+p{
+   word-break: break-all;
+   margin: 20px auto;
+}
